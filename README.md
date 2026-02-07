@@ -27,12 +27,6 @@ The script is designed to handle **bulk conversions** efficiently, minimizing Po
 - Microsoft PowerPoint installed
 - PowerShell (built-in)
 
-## Optional Improvements
-
-- Support for `.ppt` and `.pptm` files
-- Skip files that are already converted
-- Auto-open output folder
-- Add support for Word and Excel files
 
 ---
 
