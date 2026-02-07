@@ -13,13 +13,14 @@ The script is designed to handle **bulk conversions** efficiently, minimizing Po
 - Automatic creation of output folder if missing
 - Simple and easy-to-use PowerShell script
 
-## Usage
+## How to Use
 
 1. Place your `.pptx` files in the `input` folder.
-2. Update the folder paths in the script (`$inputFolder` and `$outputFolder`) if needed.
-3. Open PowerShell (normal mode is fine) and run the script.
-4. Wait for conversion to finish — you’ll see progress and hear a beep when done.
-5. Converted PDFs are saved in the `output` folder.
+2. Update the folder paths in the script (`$inputFolder` and `$outputFolder`).
+3. Open PowerShell (normal mode is fine) and locate to where the scriipt you just downloaded.
+4. Run .\pptx-to-pdf.ps1
+5. Wait for conversion to finish — you’ll see progress and hear a beep when done.
+6. Converted PDFs are saved in the `output` folder.
 
 ## Requirements
 
